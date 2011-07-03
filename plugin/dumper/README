@@ -1,0 +1,1 @@
+this plugin is actually extension for admin plugin, can't be work standalone because of admin_check_auth() function in dumper_controller.php

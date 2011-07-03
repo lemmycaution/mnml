@@ -1,0 +1,1 @@
+mobile home index view

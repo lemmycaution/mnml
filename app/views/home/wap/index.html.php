@@ -1,0 +1,1 @@
+wap home index view
